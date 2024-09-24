@@ -74,7 +74,7 @@
 [点击这里体验所有功能](https://ttgj.top/)
 
 ## 微信小程序体验码
-![微信小程序体验码](./TT工具小程序码.jpg)
+![微信小程序体验码](https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/e15df4b7e31e4fd3aadda00cfcf4226d~noop.image?_iz=58558&from=article.pc_detail&lk3s=953192f4&x-expires=1727751448&x-signature=DsJY3c1XfN8fl61G38lD54UtQrs%3D)
 
 ## 技术栈
 
